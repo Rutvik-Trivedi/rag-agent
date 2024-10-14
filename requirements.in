@@ -1,0 +1,11 @@
+pymupdf4llm
+numpy
+openai
+slack_sdk
+python-dotenv
+langchain-text-splitters
+redis
+transformers
+torch
+einops
+sentence-transformers
